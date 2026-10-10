@@ -1,0 +1,282 @@
+{
+  "version_dir": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4",
+  "enhanced_dir": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced",
+  "class_counts": {
+    "battery": 979,
+    "biological": 1035,
+    "brown-glass": 619,
+    "cardboard": 936,
+    "clothes": 5286,
+    "green-glass": 641,
+    "metal": 837,
+    "paper": 1108,
+    "plastic": 901,
+    "shoes": 2006,
+    "trash": 726,
+    "white-glass": 796
+  },
+  "total_images": 15870,
+  "corrupt_files_count": 0,
+  "corrupt_files": [],
+  "tiny_images_count": 1,
+  "tiny_images": [
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash622.jpg",
+      "class": "trash",
+      "width": 51,
+      "height": 400
+    }
+  ],
+  "odd_format_count": 113,
+  "odd_format_samples": [
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery180.jpg",
+      "class": "battery",
+      "mode": "P",
+      "format": "PNG",
+      "size": [
+        219,
+        230
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery214.jpg",
+      "class": "battery",
+      "mode": "P",
+      "format": "PNG",
+      "size": [
+        225,
+        225
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery267.jpg",
+      "class": "battery",
+      "mode": "P",
+      "format": "PNG",
+      "size": [
+        225,
+        225
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery430.jpg",
+      "class": "battery",
+      "mode": "P",
+      "format": "PNG",
+      "size": [
+        225,
+        225
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery46.jpg",
+      "class": "battery",
+      "mode": "P",
+      "format": "PNG",
+      "size": [
+        306,
+        165
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery874.jpg",
+      "class": "battery",
+      "mode": "P",
+      "format": "PNG",
+      "size": [
+        225,
+        225
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery950.jpg",
+      "class": "battery",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        320,
+        240
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery956.jpg",
+      "class": "battery",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        300,
+        480
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery974.jpg",
+      "class": "battery",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        640,
+        360
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery976.jpg",
+      "class": "battery",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        320,
+        240
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1002.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        338,
+        225
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1007.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        350,
+        263
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1009.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        350,
+        233
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1011.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        350,
+        233
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1017.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        420,
+        283
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1019.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        910,
+        337
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1024.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        350,
+        233
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1027.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        350,
+        525
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1029.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        350,
+        262
+      ]
+    },
+    {
+      "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/biological/biological1031.jpg",
+      "class": "biological",
+      "mode": "RGBA",
+      "format": "PNG",
+      "size": [
+        350,
+        233
+      ]
+    }
+  ],
+  "near_duplicate_pairs_count": 243,
+  "duplicate_clusters_count": 153,
+  "total_images_in_dup_groups": 344,
+  "sample_clusters": [
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery104.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery168.jpg"
+    ],
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery125.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/brown-glass/brown-glass440.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/brown-glass/brown-glass597.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass541.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass558.jpg"
+    ],
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery128.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery777.jpg"
+    ],
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery2.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery959.jpg"
+    ],
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery268.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery343.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery357.jpg"
+    ],
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery270.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery327.jpg"
+    ],
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery293.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery467.jpg"
+    ],
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery340.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery461.jpg"
+    ],
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery356.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash380.jpg"
+    ],
+    [
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery61.jpg",
+      "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash357.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "system_info": {
+    "os": "Darwin 27.0.0 (arm64)",
+    "cpu_brand": "Apple M4",
+    "ram_total_gb": 16.0,
+    "ram_available_gb": 4.02,
+    "disk_total_gb": 460.43,
+    "disk_free_gb": 147.7,
+    "device": "mps",
+    "device_name": "Apple Silicon GPU (Metal Performance Shaders / MPS)"
+  },
+  "batch_size": 32,
+  "stage1": {
+    "batch_time_ms": 284.8806792000687,
+    "throughput_img_per_sec": 112.3277299459355,
+    "epoch_sec": 106.83025470002576,
+    "epoch_min": 1.7805042450004294,
+    "five_epochs_min": 8.902521225002147
+  },
+  "stage2": {
+    "batch_time_ms": 549.7017396000956,
+    "throughput_img_per_sec": 58.213386814602025,
+    "epoch_sec": 206.13815235003585,
+    "epoch_min": 3.4356358725005975,
+    "fifteen_epochs_min": 51.53453808750896
+  },
+  "full_plan_min": 60.43705931251111,
+  "full_plan_hours": 1.0072843218751852
+}

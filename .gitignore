@@ -1,0 +1,22 @@
+# Data and virtualenv
+data/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# System files
+.DS_Store
+
+# Checkpoints and large outputs
+checkpoints/
+*.pt
+*.pth
+*.onnx
+models/
+output/
+large_outputs/
