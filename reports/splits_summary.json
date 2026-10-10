@@ -1,0 +1,541 @@
+{
+  "classes": [
+    "battery",
+    "biological",
+    "cardboard",
+    "clothes",
+    "glass",
+    "metal",
+    "paper",
+    "plastic",
+    "shoes",
+    "trash"
+  ],
+  "conflicting_clusters": [
+    {
+      "cluster_id": 14638,
+      "classes": [
+        "battery",
+        "trash",
+        "plastic",
+        "glass"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery125.jpg",
+          "native_class": "battery",
+          "v1_class": "battery"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/brown-glass/brown-glass440.jpg",
+          "native_class": "brown-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/brown-glass/brown-glass597.jpg",
+          "native_class": "brown-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass541.jpg",
+          "native_class": "green-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass558.jpg",
+          "native_class": "green-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass660.jpg",
+          "native_class": "green-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/plastic/plastic885.jpg",
+          "native_class": "plastic",
+          "v1_class": "plastic"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash360.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash465.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash468.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash502.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash526.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash533.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash593.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/white-glass/white-glass433.jpg",
+          "native_class": "white-glass",
+          "v1_class": "glass"
+        }
+      ]
+    },
+    {
+      "cluster_id": 284,
+      "classes": [
+        "battery",
+        "trash"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery356.jpg",
+          "native_class": "battery",
+          "v1_class": "battery"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash380.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        }
+      ]
+    },
+    {
+      "cluster_id": 566,
+      "classes": [
+        "battery",
+        "trash"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery61.jpg",
+          "native_class": "battery",
+          "v1_class": "battery"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash357.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        }
+      ]
+    },
+    {
+      "cluster_id": 967,
+      "classes": [
+        "battery",
+        "trash",
+        "glass"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/battery/battery971.jpg",
+          "native_class": "battery",
+          "v1_class": "battery"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash595.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/white-glass/white-glass450.jpg",
+          "native_class": "white-glass",
+          "v1_class": "glass"
+        }
+      ]
+    },
+    {
+      "cluster_id": 9274,
+      "classes": [
+        "glass",
+        "trash"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/brown-glass/brown-glass103.jpg",
+          "native_class": "brown-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/brown-glass/brown-glass189.jpg",
+          "native_class": "brown-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/brown-glass/brown-glass94.jpg",
+          "native_class": "brown-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass296.jpg",
+          "native_class": "green-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass474.jpg",
+          "native_class": "green-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass480.jpg",
+          "native_class": "green-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass483.jpg",
+          "native_class": "green-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash370.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash409.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash413.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash437.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash463.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash631.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash652.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2631,
+      "classes": [
+        "glass",
+        "metal"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/brown-glass/brown-glass98.jpg",
+          "native_class": "brown-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/metal/metal539.jpg",
+          "native_class": "metal",
+          "v1_class": "metal"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/metal/metal718.jpg",
+          "native_class": "metal",
+          "v1_class": "metal"
+        }
+      ]
+    },
+    {
+      "cluster_id": 14794,
+      "classes": [
+        "trash",
+        "cardboard"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/cardboard/cardboard464.jpg",
+          "native_class": "cardboard",
+          "v1_class": "cardboard"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash500.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash564.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        }
+      ]
+    },
+    {
+      "cluster_id": 9199,
+      "classes": [
+        "glass",
+        "trash"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass408.jpg",
+          "native_class": "green-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash498.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        }
+      ]
+    },
+    {
+      "cluster_id": 9275,
+      "classes": [
+        "glass",
+        "plastic",
+        "trash"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/green-glass/green-glass481.jpg",
+          "native_class": "green-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/plastic/plastic714.jpg",
+          "native_class": "plastic",
+          "v1_class": "plastic"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash521.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        }
+      ]
+    },
+    {
+      "cluster_id": 9893,
+      "classes": [
+        "glass",
+        "metal"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/metal/metal459.jpg",
+          "native_class": "metal",
+          "v1_class": "metal"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/white-glass/white-glass412.jpg",
+          "native_class": "white-glass",
+          "v1_class": "glass"
+        }
+      ]
+    },
+    {
+      "cluster_id": 10282,
+      "classes": [
+        "plastic",
+        "metal"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/metal/metal81.jpg",
+          "native_class": "metal",
+          "v1_class": "metal"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/plastic/plastic250.jpg",
+          "native_class": "plastic",
+          "v1_class": "plastic"
+        }
+      ]
+    },
+    {
+      "cluster_id": 10318,
+      "classes": [
+        "plastic",
+        "metal"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/metal/metal86.jpg",
+          "native_class": "metal",
+          "v1_class": "metal"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/plastic/plastic398.jpg",
+          "native_class": "plastic",
+          "v1_class": "plastic"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/plastic/plastic698.jpg",
+          "native_class": "plastic",
+          "v1_class": "plastic"
+        }
+      ]
+    },
+    {
+      "cluster_id": 11949,
+      "classes": [
+        "glass",
+        "plastic"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/plastic/plastic556.jpg",
+          "native_class": "plastic",
+          "v1_class": "plastic"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/white-glass/white-glass761.jpg",
+          "native_class": "white-glass",
+          "v1_class": "glass"
+        }
+      ]
+    },
+    {
+      "cluster_id": 15313,
+      "classes": [
+        "glass",
+        "plastic"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/plastic/plastic735.jpg",
+          "native_class": "plastic",
+          "v1_class": "plastic"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/white-glass/white-glass317.jpg",
+          "native_class": "white-glass",
+          "v1_class": "glass"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/white-glass/white-glass452.jpg",
+          "native_class": "white-glass",
+          "v1_class": "glass"
+        }
+      ]
+    },
+    {
+      "cluster_id": 14646,
+      "classes": [
+        "glass",
+        "trash"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash368.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/white-glass/white-glass408.jpg",
+          "native_class": "white-glass",
+          "v1_class": "glass"
+        }
+      ]
+    },
+    {
+      "cluster_id": 14735,
+      "classes": [
+        "glass",
+        "trash"
+      ],
+      "members": [
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash448.jpg",
+          "native_class": "trash",
+          "v1_class": "trash"
+        },
+        {
+          "path": "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/white-glass/white-glass223.jpg",
+          "native_class": "white-glass",
+          "v1_class": "glass"
+        }
+      ]
+    }
+  ],
+  "excluded_tiny": [
+    "./data/datasets/huberthamelin/garbage-classification-labels-corrections/versions/4/garbage_classification_enhanced/trash/trash622.jpg"
+  ],
+  "class_weights": {
+    "battery": 1.3097,
+    "biological": 1.2338,
+    "cardboard": 1.3658,
+    "clothes": 0.5676,
+    "glass": 0.6283,
+    "metal": 1.5339,
+    "paper": 1.153,
+    "plastic": 1.4288,
+    "shoes": 0.6365,
+    "trash": 1.8178
+  },
+  "splits": {
+    "train": {
+      "total": 10216,
+      "counts": {
+        "battery": 780,
+        "biological": 828,
+        "cardboard": 748,
+        "clothes": 1800,
+        "glass": 1626,
+        "metal": 666,
+        "paper": 886,
+        "plastic": 715,
+        "shoes": 1605,
+        "trash": 562
+      }
+    },
+    "val": {
+      "total": 1582,
+      "counts": {
+        "battery": 98,
+        "biological": 104,
+        "cardboard": 94,
+        "clothes": 529,
+        "glass": 203,
+        "metal": 83,
+        "paper": 111,
+        "plastic": 89,
+        "shoes": 201,
+        "trash": 70
+      }
+    },
+    "test": {
+      "total": 1579,
+      "counts": {
+        "battery": 97,
+        "biological": 103,
+        "cardboard": 93,
+        "clothes": 528,
+        "glass": 204,
+        "metal": 83,
+        "paper": 111,
+        "plastic": 90,
+        "shoes": 200,
+        "trash": 70
+      }
+    }
+  }
+}
